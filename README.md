@@ -1,2 +1,2 @@
 # webresponsive
-Proyecto Video e imagen
+Proyecto para un Estudio Fotografico
